@@ -8,7 +8,7 @@ function First({id}) {
               <p>Hey, I am</p>
               <h1>Aleksanteri Koivisto</h1>
               <p></p>
-              <span className='infotext'>3rd-year IT student studying in Vaasa, Western Finland</span>
+              <span className='infotext'>IT student studying in Vaasa, Western Finland</span>
             </header>
         </section>
     </div>

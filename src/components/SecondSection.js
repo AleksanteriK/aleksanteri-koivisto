@@ -16,8 +16,8 @@ function Second({id}) {
                 <span> My major is in software engineering and minor is in networking</span>
                 <p></p>
                 <p> I'm enthusiastic towards gaming</p>
-                <p> I love to take long walks outside and to visit national parks</p>
-                <p> Sometimes I grab my guitar and play for myself </p>
+                <p> I like to take long walks outside and to visit national parks</p>
+                <p> I'm a self-taught guitar player </p>
             </header>
         </section>
     </div>

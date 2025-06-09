@@ -16,7 +16,7 @@ function Third({id}) {
                     <p></p>
                     <li>
                     <span className="rating"> ★★★☆☆ </span>
-                    <span className="Yellow"> Javascript </span> (<span>React</span>)
+                    <span className="Yellow"> Javascript </span> (<span>React, React Native</span>)
                     </li>
                     <p></p>
                     <li>
@@ -45,12 +45,12 @@ function Third({id}) {
                       <span>Linux</span>
                     </li>
                     <li>
-                    <span>Docker</span>
-                    </li>
-                    <li>
                     <span>Gitlab ( CI / CD )</span>
                     </li>
-                    <li>MongoDB</li>
+                    <li>MongoDB Cloud (Atlas)</li>
+                    <li>
+                    <span>Blender (Self-taught)</span>
+                    </li>
                 </ul>
             </header>
         </section>

@@ -10,10 +10,16 @@ function Fourth({id}) {
         },
 
         {
-            title: "Hotel Application",
-            image: "https://cdn.pixabay.com/photo/2019/09/22/16/20/backend-4496461_960_720.png",
-            link: "https://gitlab.com/joonashkra/hotelapp",
-            description: "Devops course group project where we utilized Devops tools. Backend was made with ASP.NET and MongoDB, I worked mostly on the backend side"
+            title: "Budget 6000",
+            image: "https://github.com/AleksanteriK/Budget6000/blob/main/screenshots/view.png?raw=true",
+            link: "https://github.com/AleksanteriK/Budget6000",
+            description: "A budget calculator specified for finnish students. I worked on this project with a team of 4 people. I was responsible mostly implementing the backend with .NET and MOngoDB, but also did some frontend work with React."
+        },
+        {
+            title: "Donuts",
+            image: process.env.PUBLIC_URL + '/dontsitv5.png',
+            link: process.env.PUBLIC_URL + '/dontsitv5.png',
+            description: "Donuts and a plate I made with Blender",
         },
       ];      
 
