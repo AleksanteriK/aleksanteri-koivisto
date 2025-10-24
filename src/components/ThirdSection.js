@@ -11,7 +11,7 @@ function Third({id}) {
                     <div className="content-right">
                     <li>
                     <span className="rating"> ★★★★☆ </span>
-                    <span className="Green"> C# </span> <span> (Unity, MAUI, ASP.NET)</span>
+                    <span className="Green"> C# </span> <span> (Unity, ASP.NET)</span>
                     </li>
                     <p></p>
                     <li>
@@ -47,9 +47,9 @@ function Third({id}) {
                     <li>
                     <span>Gitlab ( CI / CD )</span>
                     </li>
-                    <li>MongoDB Cloud (Atlas)</li>
+                    <li>MongoDB Cloud</li>
                     <li>
-                    <span>Blender (Self-taught)</span>
+                    <span>Blender (Modeling)</span>
                     </li>
                 </ul>
             </header>
