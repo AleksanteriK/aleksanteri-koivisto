@@ -16,10 +16,10 @@ function Fourth({id}) {
             description: "A budget calculator specified for finnish students. I worked on this project with a team of 4 people. I was responsible mostly implementing the backend with .NET and MongoDB, but also did some frontend work with React."
         },
         {
-            title: "Donuts",
-            image: process.env.PUBLIC_URL + '/dontsitv5.png',
-            link: process.env.PUBLIC_URL + '/dontsitv5.png',
-            description: "Donuts and a plate I made with Blender",
+            title: "Zamboni",
+            image: process.env.PUBLIC_URL + '/lowpoly_zamboni.png',
+            link: process.env.PUBLIC_URL + '/lowpoly_zamboni.png',
+            description: "Low poly & low detail model of a Zamboni I've made with Blender"
         },
       ];      
 
