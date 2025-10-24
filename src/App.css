@@ -204,6 +204,13 @@ h2 {
   .project-description {
     display: none !important; /* Hide description on small screens */
   }
+
+  html {
+    scroll-snap-type: none !important;
+    scroll-behavior: none !important;
+    overscroll-behavior: none !important;
+  }
+
 }
 
 .infotext {
