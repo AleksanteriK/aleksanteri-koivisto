@@ -15,8 +15,8 @@ function App() {
         <FirstSection id="home"/>
         <SecondSection id="about"/>
         <ThirdSection id="technologies"/>
-        <FourthSection id="works"/>
         <Competences id="competences"/>
+        <FourthSection id="works"/>
         <Contact id="contact"/>
     </div>
   );

@@ -10,27 +10,27 @@ function Third({id}) {
                     <p>Languages and frameworks</p>
                     <div className="content-right">
                     <li>
-                    <span className="rating"> ★★★★☆ </span>
+                    <span className="rating"> ★★★☆☆ </span>
                     <span className="Green"> C# </span> <span> (Unity, ASP.NET)</span>
                     </li>
                     <p></p>
                     <li>
-                    <span className="rating"> ★★★☆☆ </span>
-                    <span className="Yellow"> Javascript </span> (<span>React, React Native</span>)
-                    </li>
-                    <p></p>
-                    <li>
-                    <span className="rating"> ★★★☆☆ </span>
-                    <span className="Orange"> Java</span>
+                    <span className="rating"> ★★☆☆☆ </span>
+                    <span className="Yellow"> Javascript </span> (<span>React</span>)
                     </li>
                     <p></p>
                     <li>
                     <span className="rating"> ★★☆☆☆ </span>
-                    <span className="Blue"> Python </span>
+                    <span className="Blue"> Python </span> (<span>Flask, Scrapy</span>)
                     </li>
                     <p></p>
                     <li>
                     <span className="rating"> ★★☆☆☆ </span>
+                    <span className="Orange"> Java</span> (<span>Spring Boot</span>)
+                    </li>
+                    <p></p>
+                    <li>
+                    <span className="rating"> ★☆☆☆☆ </span>
                     <span className="Grey"> C / C++</span>
                     </li>
                     </div>
@@ -39,18 +39,15 @@ function Third({id}) {
                     <li>
                     <span>Unity Game Engine</span>
                     </li>
-                    <p></p>
-                    <p>Other</p>
-                    <li>
-                      <span>Linux</span>
-                    </li>
-                    <li>
-                    <span>Gitlab ( CI / CD )</span>
-                    </li>
-                    <li>MongoDB Cloud</li>
                     <li>
                     <span>Blender (Modeling)</span>
                     </li>
+                    <p></p>
+                    <p>Other</p>
+                    <li>
+                    <span>Linux</span>
+                    </li>
+                    <li>MongoDB Cloud</li>
                 </ul>
             </header>
         </section>

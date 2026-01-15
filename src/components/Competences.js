@@ -7,7 +7,7 @@ function Competences({id}) {
             <header className="Maincontent">
                 <h2>Competences</h2>
                 <p></p>
-                <p>Networking Courses Completed</p>
+                <p>CCNA Courses</p>
                 <ul className="languagelist">
                     <div className="content-right">
                         <li>
@@ -22,7 +22,7 @@ function Competences({id}) {
                         <p></p>
                         <li>
                         <span> (2025) </span>
-                        <span> CCNA: Cisco Cybersecurity Associate </span>
+                        <span> CCNA: Cisco CyberOps Associate </span>
                         </li>
                     </div>
                 </ul>
