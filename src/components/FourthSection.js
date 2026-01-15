@@ -12,7 +12,7 @@ function Fourth({id}) {
             title: "Budget 6000",
             image: "https://github.com/AleksanteriK/Budget6000/blob/main/screenshots/view.png?raw=true",
             link: "https://github.com/AleksanteriK/Budget6000",
-            description: "A budgeting app specified for finnish students. I worked on this project with a team of 4 people. I was responsible mostly implementing the backend with .NET and MongoDB, but also did some frontend work with React."
+            description: "A budgeting app specified for finnish students. I worked on this project with a team of 4 people. I was responsible mostly implementing the backend with .NET and MongoDB, but also did some frontend work with React"
         },
         {
             title: "3D Checkers",
