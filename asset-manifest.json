@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aleksanteri-koivisto/static/css/main.a6cbe44d.css",
-    "main.js": "/aleksanteri-koivisto/static/js/main.e00e3bda.js",
+    "main.js": "/aleksanteri-koivisto/static/js/main.c1d1dd18.js",
     "static/media/backgroundpic.JPEG": "/aleksanteri-koivisto/static/media/backgroundpic.499e012747cde9f4b9b5.JPEG",
     "index.html": "/aleksanteri-koivisto/index.html",
     "main.a6cbe44d.css.map": "/aleksanteri-koivisto/static/css/main.a6cbe44d.css.map",
-    "main.e00e3bda.js.map": "/aleksanteri-koivisto/static/js/main.e00e3bda.js.map"
+    "main.c1d1dd18.js.map": "/aleksanteri-koivisto/static/js/main.c1d1dd18.js.map"
   },
   "entrypoints": [
     "static/css/main.a6cbe44d.css",
-    "static/js/main.e00e3bda.js"
+    "static/js/main.c1d1dd18.js"
   ]
 }
