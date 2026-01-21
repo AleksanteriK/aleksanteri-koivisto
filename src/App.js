@@ -1,23 +1,20 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import FirstSection from './components/FirstSection';
-import SecondSection from './components/SecondSection';
-import ThirdSection from './components/ThirdSection';
-import FourthSection from './components/FourthSection';
-import NavigationBar from './components/NavigationBar';
-import Competences from './components/Competences';
-import Contact from './components/Contact';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import MainPage from './components/MainPage';
+import IceResurfacerGamePage from './components/IceResurfacerGamePage';
 
 function App() {
   return (
     <div>
-        <NavigationBar/>
-        <FirstSection id="home"/>
-        <SecondSection id="about"/>
-        <ThirdSection id="technologies"/>
-        <Competences id="competences"/>
-        <FourthSection id="works"/>
-        <Contact id="contact"/>
+      <Router>
+        <Routes>
+          <Route path="/" element={<MainPage/>} />
+          <Route path="/aleksanteri-koivisto" element={<MainPage/>} />
+          <Route path="/iceresurfacergame" element={<IceResurfacerGamePage/>}/>
+          <Route path="/aleksanteri-koivisto/iceresurfacergame" element={<IceResurfacerGamePage/>} />
+        </Routes>
+      </Router>
     </div>
   );
 }

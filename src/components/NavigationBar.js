@@ -11,8 +11,8 @@ function NavigationBar() {
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#about">About Me</Nav.Link>
+                        <Nav.Link href="#currentprojectonmainpage">Projects</Nav.Link>
                         <Nav.Link href="#technologies">Technologies</Nav.Link>
-                        <Nav.Link href="#works">Projects</Nav.Link>
                         <Nav.Link href="#competences">Competences</Nav.Link>
                         <Nav.Link href="#contact">Contact</Nav.Link>
                     </Nav>

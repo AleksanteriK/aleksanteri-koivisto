@@ -5,7 +5,7 @@ function Contact({id}) {
     <div id={id}>
         <section>
             <header className="Maincontent">
-                <h1>Want to get in touch?</h1>
+                <h2>Contact me!</h2>
                 <span> koivistoaleksanteri1@gmail.com </span>
                 <p></p>
                 <p></p>
