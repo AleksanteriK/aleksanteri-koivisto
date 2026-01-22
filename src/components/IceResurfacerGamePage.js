@@ -99,7 +99,7 @@ function IceResurfacerGamePage({ id }) {
                                 <div style={{ fontSize: '1.20rem' }}>
                                     <strong>Coroutines</strong>
                                     <div className="d-flex flex-column">
-                                        <small>Some actions in the game runs asynchronously.</small>
+                                        <small>Some actions in the game runs asynchronously</small>
                                         <p></p>
                                         <small>Unity's coroutines execute functions that return a <strong> C# IEnumerator</strong>,</small>
                                         <small>allowing tasks to be spread across multiple frames. This has </small>
