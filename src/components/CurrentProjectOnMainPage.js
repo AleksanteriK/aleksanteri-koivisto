@@ -31,7 +31,7 @@ function CurrentProjectOnMainPage({ id }) {
                             <Col xs={10} md={8} lg={6} className="d-flex flex-column align-items-center">
                                 <div style={{ padding: '1rem', backgroundColor: '#1f2127', borderRadius: '10px', marginBottom: '10px' }}>
                                     <div style={{textAlign: 'center' }}>
-                                        <small>A solo project that is currently in early development. </small>
+                                        <small>A solo project that is currently in early development</small>
                                     </div>
                                 </div>
                             </Col>                            

@@ -19,7 +19,7 @@ function IceResurfacerGamePage({ id }) {
                     <p></p>
                     <Row>
                         <Col xs={8} md={6} lg={4} className="d-flex flex-column align-items-center">
-                            <Link to="/"
+                            <Link to="/aleksanteri-koivisto"
                             className="link-to-project-page"
                             >
                                 <h4 className='current-project-title' style={{ margin: '10px 0 0 0', fontWeight: 'bold', textAlign: 'center', padding:'1' }}>Go Back</h4>
@@ -47,7 +47,7 @@ function IceResurfacerGamePage({ id }) {
                                 <div style={{textAlign: 'center' }}>
                                     <strong>About</strong>
                                     <p></p>
-                                    <small>This is my passionate hobby project that I started developing during the summer of 2025. </small>
+                                    <small>This is a passion project I began developing in the summer of 2025. </small>
                                     <small>My goal is to create a simulator-type game that introduces </small>
                                     <small>realistic technical elements of ice resurfacing while still </small>
                                     <small>keeping it accessible and fun to the player.</small>
