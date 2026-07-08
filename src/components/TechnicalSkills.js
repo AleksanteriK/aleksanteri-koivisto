@@ -47,7 +47,12 @@ function TechnicalSkills({id}) {
                     <li>
                     <span>Linux</span>
                     </li>
-                    <li>MongoDB Cloud</li>
+                    <li>
+                    <span>MongoDB Cloud</span>
+                    </li>
+                    <li>
+                    <span>WordPress</span>
+                    </li>
                 </ul>
             </header>
         </section>

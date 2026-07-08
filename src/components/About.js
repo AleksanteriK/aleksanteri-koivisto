@@ -18,12 +18,12 @@ function About({id}) {
                     <p></p>
                     <p></p>
                     <p></p>
-                    <span>I am currently pursuing my Bachelor's degree in Information Technology at</span>
+                    <span>I completed my Bachelor's degree in Information Technology at</span>
                     <p className="Orange">Vaasa University of Applied Sciences</p>
+                    <span>I studied software engineering as a major and networking as a minor</span>
                     <p></p>
                     <p></p>
-                    <p></p>
-                    <span> My major is in software engineering and minor is in networking</span>
+                    <span>I am also an aspiring and self-taught indie game developer</span>
                     <p></p>
                 </Container>
             </header>

@@ -12,7 +12,6 @@ function App() {
           <Route path="/" element={<MainPage/>} />
           <Route path="/aleksanteri-koivisto" element={<MainPage/>} />
           <Route path="/iceresurfacergame" element={<IceResurfacerGamePage/>}/>
-          <Route path="/aleksanteri-koivisto/iceresurfacergame" element={<IceResurfacerGamePage/>} />
         </Routes>
       </Router>
     </div>
