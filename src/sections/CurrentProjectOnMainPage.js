@@ -17,7 +17,7 @@ function CurrentProjectOnMainPage({ id }) {
                         <Row className='justify-content-center'>
                             <Col xs={10} md={8} lg={6} className="d-flex flex-column align-items-center">
                                 <div>
-                                    <Link to="/aleksanteri-koivisto/iceresurfacergame"
+                                    <Link to="/iceresurfacergame"
                                     className="link-to-project-page"
                                     >
                                         <AutoPlayVideo src={process.env.PUBLIC_URL + '/demo.mp4'} poster={process.env.PUBLIC_URL + '/firstperson_view.png'}/>

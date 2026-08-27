@@ -5,7 +5,7 @@ import { Container, Row, Col, Accordion } from 'react-bootstrap';
 import TopBar from '../components/TopBarInGamePage';
 import AutoPlayVideo from '../components/AutoPlayVideo';
 
-function IceResurfacerGamePage({ id }) {
+function IceResurfacerGamePage() {
 
     useEffect(() => {
         window.scrollTo(0, 0);
@@ -19,7 +19,7 @@ function IceResurfacerGamePage({ id }) {
                     <p></p>
                     <Row>
                         <Col xs={8} md={6} lg={4} className="d-flex flex-column align-items-center">
-                            <Link to="/aleksanteri-koivisto"
+                            <Link to="/"
                             className="link-to-project-page"
                             >
                                 <h4 className='current-project-title' style={{ margin: '10px 0 0 0', fontWeight: 'bold', textAlign: 'center', padding:'1' }}>Go Back</h4>
