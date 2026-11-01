@@ -5,32 +5,30 @@ function TechnicalSkills({id}) {
     <div className='Third-page' id={id}>
       <section>
           <header className="Maincontent">
-                <h2>Technical Experience</h2>
+                <h2>Technical Expertise</h2>
+                <p></p>
+                <small>I have experience with the following technologies</small>
+                <p></p>
                 <ul className="languagelist">
                     <p>Languages and frameworks</p>
                     <div className="content-right">
                     <li>
-                    <span className="rating"> ★★★☆☆ </span>
                     <span className="Green"> C# </span> <span> (Unity, ASP.NET)</span>
                     </li>
                     <p></p>
                     <li>
-                    <span className="rating"> ★★☆☆☆ </span>
                     <span className="Yellow"> Javascript </span> (<span>React</span>)
                     </li>
                     <p></p>
                     <li>
-                    <span className="rating"> ★★☆☆☆ </span>
                     <span className="Blue"> Python </span> (<span>Flask, Scrapy</span>)
                     </li>
                     <p></p>
                     <li>
-                    <span className="rating"> ★★☆☆☆ </span>
                     <span className="Orange"> Java</span> (<span>Spring Boot</span>)
                     </li>
                     <p></p>
                     <li>
-                    <span className="rating"> ★☆☆☆☆ </span>
                     <span className="Grey"> C / C++</span>
                     </li>
                     </div>
@@ -40,7 +38,7 @@ function TechnicalSkills({id}) {
                     <span>Unity Game Engine</span>
                     </li>
                     <li>
-                    <span>Blender (Modeling)</span>
+                    <span>Blender (3D Modeling)</span>
                     </li>
                     <p></p>
                     <p>Other</p>

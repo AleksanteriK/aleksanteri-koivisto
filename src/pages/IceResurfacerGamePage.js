@@ -49,7 +49,7 @@ function IceResurfacerGamePage() {
                                         <strong>Itch.io page for the project is now live!</strong>
                                     </Link>
                                     <p></p>
-                                    <iframe frameBorder="0" src="https://itch.io/embed/4908508?dark=true" title="Ice Resurfacing Simulator on itch.io" style={{ width: '100%', maxWidth: '552px', aspectRatio: '552 / 167', height: 'auto', border: 0 }}><a href="https://crowback-studios.itch.io/ice-resurfacing-simulator">Ice Resurfacing Simulator by CrowBack Studios</a></iframe>
+                                    <iframe frameBorder="0" src="https://itch.io/embed/4908508?dark=true" title="Ice Resurfacing Simulator on itch.io" style={{ width: '100%', maxWidth: '552px', height: 'auto', border: 0 }}><a href="https://crowback-studios.itch.io/ice-resurfacing-simulator">Ice Resurfacing Simulator by CrowBack Studios</a></iframe>
                                 </div>
                             </div>
                         </Col>                            
