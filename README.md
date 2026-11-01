@@ -1,3 +1,3 @@
 # Aleksanteri Koivisto
 
-Repository for my portfolio page hosted on Github
+Repository for my portfolio page hosted on GitHub Pages
