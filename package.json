@@ -1,7 +1,7 @@
 {
-  "homepage": "http://aleksanterik.github.io/aleksanteri-koivisto",
+  "homepage": "http://aleksanterik.dev/aleksanteri-koivisto",
   "name": "aleksanteri-koivisto",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",

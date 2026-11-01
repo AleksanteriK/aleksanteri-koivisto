@@ -27,7 +27,7 @@ function IceResurfacerGamePage() {
                         </Col>
                     </Row>
                     <Row style={{ marginTop: '1rem' }}>
-                        <AutoPlayVideo src={process.env.PUBLIC_URL + '/demo.mp4'} poster={process.env.PUBLIC_URL + '/firstperson_view.png'}/>
+                        <AutoPlayVideo src={process.env.PUBLIC_URL + '/showcase.mp4'} poster={process.env.PUBLIC_URL + '/firstperson_view.png'}/>
                     </Row>
                     {/*tagit */}
                     <Row className='justify-content-center'>
@@ -63,7 +63,7 @@ function IceResurfacerGamePage() {
                                         <strong>Itch.io page for the project is now live!</strong>
                                     </Link>
                                     <p></p>
-                                    <iframe title="Ice Resurfacing Simulator" frameborder="0" src="https://itch.io/embed/4908508" width="552" height="167"><a href="https://crowback-studios.itch.io/ice-resurfacing-simulator">Ice Resurfacing Simulator by CrowBack Studios</a></iframe>
+                                    <iframe frameborder="0" src="https://itch.io/embed/4908508?dark=true" width="552" height="167"><a href="https://crowback-studios.itch.io/ice-resurfacing-simulator">Ice Resurfacing Simulator by CrowBack Studios</a></iframe>
                                 </div>
                             </div>
                         </Col>                            

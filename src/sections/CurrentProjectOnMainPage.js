@@ -20,7 +20,7 @@ function CurrentProjectOnMainPage({ id }) {
                                     <Link to="/iceresurfacergame"
                                     className="link-to-project-page"
                                     >
-                                        <AutoPlayVideo src={process.env.PUBLIC_URL + '/demo.mp4'} poster={process.env.PUBLIC_URL + '/firstperson_view.png'}/>
+                                        <AutoPlayVideo src={process.env.PUBLIC_URL + '/showcase.mp4'} poster={process.env.PUBLIC_URL + '/firstperson_view.png'}/>
                                         <h4 className='current-project-title' style={{ margin: '10px 0 0 0', fontWeight: 'bold', textAlign: 'center', padding:'1' }}>Ice Resurfacing Simulator</h4>
                                     </Link>
                                 </div>
