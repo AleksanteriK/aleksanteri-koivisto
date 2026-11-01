@@ -42,8 +42,21 @@ function IceResurfacerGamePage() {
                         </Col>
                     </Row>
                     <Row className='justify-content-center' style={{ marginTop: '1rem' }}>
-                        <Col xs={10} md={8} lg={6} className="d-flex flex-column align-items-center">
+                        <Col xs={12} md={10} lg={6} className="d-flex flex-column align-items-center">
                             <div style={{ padding: '1rem', backgroundColor: '#282c34', borderRadius: '10px', marginBottom: '10px', fontSize: '1.20rem'}}>
+                                <div style={{textAlign: 'center' }}>
+                                    <Link to = "https://crowback-studios.itch.io/ice-resurfacing-simulator">
+                                        <strong>Itch.io page for the project is now live!</strong>
+                                    </Link>
+                                    <p></p>
+                                    <iframe frameBorder="0" src="https://itch.io/embed/4908508?dark=true" title="Ice Resurfacing Simulator on itch.io" style={{ width: '100%', maxWidth: '552px', aspectRatio: '552 / 167', height: 'auto', border: 0 }}><a href="https://crowback-studios.itch.io/ice-resurfacing-simulator">Ice Resurfacing Simulator by CrowBack Studios</a></iframe>
+                                </div>
+                            </div>
+                        </Col>                            
+                    </Row>
+                    <Row className='justify-content-center' style={{ marginTop: '1rem' }}>
+                        <Col xs={10} md={8} lg={6} className="d-flex flex-column align-items-center">
+                            <div style={{ width: '100%', boxSizing: 'border-box', padding: '1rem', backgroundColor: '#282c34', borderRadius: '10px', marginBottom: '10px', fontSize: '1.20rem'}}>
                                 <div style={{textAlign: 'center' }}>
                                     <strong>About</strong>
                                     <p></p>
@@ -51,19 +64,6 @@ function IceResurfacerGamePage() {
                                     <small>My goal is to create a simulator-type game that introduces </small>
                                     <small>realistic technical elements of ice resurfacing while still </small>
                                     <small>keeping it accessible and fun to the player.</small>
-                                </div>
-                            </div>
-                        </Col>                            
-                    </Row>
-                    <Row className='justify-content-center' style={{ marginTop: '1rem' }}>
-                        <Col xs={10} md={8} lg={6} className="d-flex flex-column align-items-center">
-                            <div style={{ padding: '1rem', backgroundColor: '#282c34', borderRadius: '10px', marginBottom: '10px', fontSize: '1.20rem'}}>
-                                <div style={{textAlign: 'center' }}>
-                                    <Link to = "https://crowback-studios.itch.io/ice-resurfacing-simulator">
-                                        <strong>Itch.io page for the project is now live!</strong>
-                                    </Link>
-                                    <p></p>
-                                    <iframe frameborder="0" src="https://itch.io/embed/4908508?dark=true" width="552" height="167"><a href="https://crowback-studios.itch.io/ice-resurfacing-simulator">Ice Resurfacing Simulator by CrowBack Studios</a></iframe>
                                 </div>
                             </div>
                         </Col>                            
